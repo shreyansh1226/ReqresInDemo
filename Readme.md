@@ -1,4 +1,4 @@
-# Reqres.in API Client
+# .NET API Client Demonstration
 
 .NET solution for interacting with reqres.in API
 
